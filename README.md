@@ -1,2 +1,2 @@
 # f64
- Utilities for float64. Mainly random value generation.
+ Utilities for `float64`. Mainly random value generation.
