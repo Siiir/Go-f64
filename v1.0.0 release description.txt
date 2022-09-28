@@ -1,2 +1,0 @@
-I haven't used it yet.
-It has passed full set of tests.
